@@ -1,23 +1,15 @@
-p {
-  font-family: Arial;
+img {
+  width: 30%;
+  float: left;
+  margin: 1.66%;
 }
 
-h1 {
-  font-family: Georgia;
-}
-
-body {
-  font-size: 10px;
-}
-
-h1 {
-  font-size: 5em;
-}
-
-p {
-  font-size: 2em;
-}
-
-span {
-  font-size: 2em;
+.name {
+  font-family: "PT Sans", snas-serif;
+  margin-left: 1.66%;
+  font-size: 1.5em;
+  font-weight: 800;
+  border-bottom: 2px solid #f1f1f1;
+  width: 30%;
+  padding-bottom: 2px;
 }
